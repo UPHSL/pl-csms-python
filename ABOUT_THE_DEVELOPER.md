@@ -5,16 +5,16 @@ Complete this file during Sprint 0.
 ## Student Information
 
 **Full Name:**  
-`Enter your full name`
+`Miguel D. Laxamana`
 
 **Student Number:**  
-`Enter your student number`
+`23-1048-980`
 
 **Section:**  
-`Enter your section`
+`J4A`
 
 **GitHub Username:**  
-`Enter your GitHub username`
+`MiguelLaxamana`
 
 **Primary Technology Stack:**  
 Python with Flask
@@ -23,24 +23,24 @@ Python with Flask
 
 Briefly describe your current programming experience.
 
-`Write your answer here.`
+`I have experience using PHP to develop web applications, Python to create games and programs, and XAMPP with MySQL for database management. I have also worked with HTML, CSS, and SQL in my projects.`
 
 ## Learning Goal
 
 What do you want to learn or improve during this course?
 
-`Write your answer here.`
+`I want to improve my coding skills, strengthen my problem-solving abilities, and learn more about Python, especially how to use it effectively in developing applications and projects.`
 
 ## Development Environment
 
 **Operating System:**  
-`Enter your operating system`
+`Microsoft Windows`
 
 **Python Version:**  
 `Enter the output of python --version`
 
 **VS Code Installed:**  
-`Yes or No`
+`Yes`
 
 ## Academic Integrity Confirmation
 
