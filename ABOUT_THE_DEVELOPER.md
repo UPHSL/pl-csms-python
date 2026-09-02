@@ -4,6 +4,17 @@ Complete this document during Developer Onboarding.
 
 This file identifies the student responsible for this repository throughout the semester.
 
+**Full Name:**  
+`Miguel D. Laxamana`
+
+**Student Number:**  
+`23-1048-980`
+
+**Section:**  
+`J4A`
+
+**GitHub Username:**  
+`MiguelLaxamana`
 ## Developer Information
 
 **Full Name:** 
@@ -23,6 +34,7 @@ Enter your GitHub username here.
 
 ## Primary Technology
 
+`I have experience using PHP to develop web applications, Python to create games and programs, and XAMPP with MySQL for database management. I have also worked with HTML, CSS, and SQL in my projects.`
 *   **Programming Language:** Python
 *   **Runtime:** Python 3.10+
 *   **Framework:** Flask
@@ -32,6 +44,7 @@ Enter your GitHub username here.
 **Operating System:** 
 Windows / macOS / Linux
 
+`I want to improve my coding skills, strengthen my problem-solving abilities, and learn more about Python, especially how to use it effectively in developing applications and projects.`
 **Primary IDE or Editor:** 
 Enter your IDE or editor here.
 
@@ -45,11 +58,15 @@ Enter the output of:
 
 ## Current Experience
 
+**Operating System:**  
+`Microsoft Windows`
 Briefly describe your current programming experience.
 Enter your answer here.
 
 ## Learning Goal
 
+**VS Code Installed:**  
+`Yes`
 What do you want to learn or improve during this course?
 Enter your answer here.
 
